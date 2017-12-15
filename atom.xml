@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://JenneyHong.github.io/"/>
-  <updated>2017-12-14T09:37:27.598Z</updated>
+  <updated>2017-12-15T09:34:25.901Z</updated>
   <id>https://JenneyHong.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://JenneyHong.github.io/2017/12/14/diff-from-page-and-port/"/>
     <id>https://JenneyHong.github.io/2017/12/14/diff-from-page-and-port/</id>
     <published>2017-12-14T09:30:15.000Z</published>
-    <updated>2017-12-14T09:37:27.598Z</updated>
+    <updated>2017-12-15T09:34:25.901Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="diff-from-page-and-port"><a href="#diff-from-page-and-port" class="headerlink" title="diff from page and port"></a>diff from page and port</h2><h2 id="bu-neng-shu-ru-zhong-wen-de-wo-zhi-hao-qiao-pinyin"><a href="#bu-neng-shu-ru-zhong-wen-de-wo-zhi-hao-qiao-pinyin" class="headerlink" title="bu neng shu ru zhong wen de wo zhi hao qiao pinyin"></a>bu neng shu ru zhong wen de wo zhi hao qiao pinyin</h2><p>  ru ti, ce shi yi xia page he hosts de xian shi xiao guo .<br>  chu le bu neng shu ru zhong wen. linux hai shi hen fang bian shi yong de .</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="diff-from-page-and-port"><a href="#diff-from-page-and-port" class="headerlink" title="diff from page and port"></a>diff from page and port</h2><h2 id="debian没有装中文系统，中文输入法也没有。"><a href="#debian没有装中文系统，中文输入法也没有。" class="headerlink" title="debian没有装中文系统，中文输入法也没有。"></a>debian没有装中文系统，中文输入法也没有。</h2><p>  如果只有post没有page, 在主页上没有显示。主页上的日志数也没有计数。加上page 的Index就可以。index 有没有东西都无所谓。<br>  另外，如果在Markdown文章内容开头添加 <figure class="highlight plain"><figcaption><span>即可折叠内容。更美观。</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">NEXT官方提供了三种**全文阅读**的设置方法：</span><br><span class="line">1. 文章开头添加```&lt;!--more--&gt;</span><br></pre></td></tr></table></figure></p><ol><li>文章的front-matter中添加<code>description</code>, 就是在上面的title,和date下面添加一行 <code>description:</code>;</li><li>修改主题配置文件<code>theme\next\_config.yml</code>, 将<code>auto_excerpt: enable: true</code>.</li></ol><p>我设置了最后一种啦。</p>]]></content>
     
     <summary type="html">
     
